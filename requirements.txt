@@ -1,6 +1,5 @@
 streamlit
 openai
-PIL
 io
 request
 os
