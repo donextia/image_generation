@@ -4,3 +4,5 @@ PIL
 io
 request
 os
+pillow
+pip
