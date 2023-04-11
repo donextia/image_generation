@@ -1,6 +1,5 @@
 streamlit
 openai
-io
 request
 os
 pillow
